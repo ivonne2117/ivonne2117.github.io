@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, Helvetica, sans-serif ;
+    max-width: 50em ;
+    border: 2px solid rgb(94, 15, 168) ; 
+    margin: 1em auto ;
+    padding:1em;
+    background-color: rgb(164, 245, 238);
+}
+ h1{
+    color: blue;
+  text-align: center ;
+  }
+  
+.karin , .karin2{ color: rgb(84, 15, 148);
+
+}
+.lagos3{
+    color: blue;
+}
+.elvis{
+    color: blueviolet;
+}
+.rosa{
+    color:rgb(53, 53, 223);
+}
+.rosa2{
+    color: rgb(255, 47, 210);
+}
