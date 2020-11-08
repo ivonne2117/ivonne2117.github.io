@@ -1,0 +1,63 @@
+body{
+    margin:0;
+    background: linear-gradient(rgb(174, 76, 240),whitesmoke);
+
+}
+
+.midja{
+    background:rgb(224, 117, 215);
+    opacity:0,10;
+}
+.container{
+    width: 70%;
+    margin:0 auto;
+
+}
+.tveirdalkar{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 70%;
+    margin: 0 auto;
+}
+.topnav{
+    text-align: right;
+    padding: 0 40px 0 0; 
+}
+.verkefni{
+    text-align: right;
+    text-align: right;
+    padding: 0 40px 40px 0; 
+}
+
+.bb {
+    color: black;
+}
+.bb1{
+    color: black;
+}
+.block{
+    background:rgb(199, 155, 199);
+    margin-top: 25px;
+    margin-bottom: 25px;
+
+    }
+
+.midja {
+    background: linear-gradient( pink, whitesmoke);
+    opacity: 0.8;
+    padding: 5px;
+    margin: 0;
+    }
+
+
+.sss{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 70%;
+    margin: 0  auto;
+
+}
+.copy{
+    width: 70%;
+    margin: 0 auto;
+}
