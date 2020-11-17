@@ -1,0 +1,115 @@
+body,section{
+    margin: 0px;
+}
+
+.hring{
+    height: 40em;
+    width: 40em;
+    background: radial-gradient(rgb(40, 220, 226), rgb(186, 186, 211));
+    border-radius: 55%;
+}
+
+.texti{
+    width: 80%;
+    margin: 0 auto;
+    font-family: initial;
+}
+.algomas{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    
+}
+
+.algo{
+    background: rgb(222, 113, 255);
+    height: 100vh;
+    }
+
+.enmedio{
+        background: linear-gradient(#a181dd, whitesmoke);
+        opacity: 0.8;
+        height: 100vh;
+    }
+.pie  {background: rgb(71, 238, 224);
+height: 20hv;}
+
+blockquote{
+    background: rgba(211, 34, 255, 0.267);
+    padding: 1em 1em 1em 3em;
+    margin: 0;
+}
+.enmediohring{
+    width: 50%;
+    margin: 0px;
+}
+.pilann{
+    position: fixed;
+    right: 30px;
+    bottom: 30px;
+    font-size: 2em;
+    background: rgb(19, 186, 192);
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 70px;
+}
+
+.abajo{
+    margin-top: 28x;
+    margin-bottom: 28px;
+}
+
+.pastel3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -20em 0 0 -20em;
+}
+
+.algomas1{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.chest{
+    
+        color: rgb(2, 2, 2);
+}
+
+.karin{
+    border: 10px;
+    background:radial-gradient(rgb(102, 102, 192),rgb(72, 72, 219));
+    padding: 10px 20px 10px 20px;
+    border-radius: 10%;
+}
+
+.pastel4{
+    padding-top: 22vh;
+    text-align: center;
+}
+.ver{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: 150px 0 0 -50px; 
+
+}
+.call{
+    margin: 0 10px 0 10px;
+}
+.min{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    text-align: center;
+}
+
+.grande{
+    font-size: 75px;
+    color: rgb(116, 65, 126);
+}
+
+.pastel5{
+    font-size: 50px;
+}
+
